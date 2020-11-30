@@ -1,3 +1,24 @@
+# PJWEBOCRES
+
+Thomas Michaeli / Lucas Marrec
+
+Notre projet est une Station météo:
+
+1er Widget: L'objectif est d'afficher la météo des 5 prochains jours en foncion de la localisation de l'ordinateur (relié à l'API mais il manque la localisation ) 
+
+2ème widget: (affiche l'évolution de la Temperature dans la journée)
+
+3ème Widget: Relié à l'API que nous allons crée, il permettra d'afficher la Température , l'Humidité ou la pollution de l'air de chaque pièce de la maison. 
+
+4ème Widget: Affiche la vitesse du vent à la ville demandé
+
+5ème widget: Affiche la température à la ville demandé
+
+6ème widget : Affiche le pourcentage d'humidité à la ville demandé.
+
+Lien Gantt : https://edu783276.monday.com/boards/883658963/views/13960460
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
