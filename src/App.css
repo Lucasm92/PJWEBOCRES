@@ -1,10 +1,16 @@
 .App {
   text-align: center;
+  background-image: url(BG.jpg) ; 
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+h1{
+  font-weight: 700;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +41,49 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.card {
+  margin-top:  40px; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  margin-right: 10px; /* Added */
+  opacity: 0.8;
+  padding-top: 40px;
+  
+}
+
+.h3{
+ text-align: center;
+}
+.result{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.image{
+
+  width: 5px;
+}
+
+.btn{
+  margin: 15px;
+}
+
+.sensors{
+  margin-bottom: 20px;
+  margin-left: 20px;
+  
+}
+
+.title{
+  padding: 40px;
+}
+
+.ctn{
+  background-image: url(BG.jpg) ;
+}
+
+.btnadmin{
+  justify-content: flex-end;
+  padding-top: 30px;
 }
