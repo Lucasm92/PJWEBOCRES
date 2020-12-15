@@ -18,6 +18,9 @@ Notre projet est une Station météo:
 
 Lien Gantt : https://edu783276.monday.com/boards/883658963/views/13960460
 
+nom de la BDD : Home
+nom de la collection : datas
+
 
 Pour lancer le projet : 
 -Frontend: cd station-meteo 

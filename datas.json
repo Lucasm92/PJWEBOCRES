@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "5fd74d37dd01600288dd4dde"
+  },
+  "type": "Humidity",
+  "value": 66,
+  "room": "Kitchen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d52dd01600288dd4ddf"
+  },
+  "type": "Airpollution",
+  "value": 53,
+  "room": "Kitchen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d54dd01600288dd4de0"
+  },
+  "type": "Airpollution",
+  "value": 46,
+  "room": "Kitchen",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d60dd01600288dd4de1"
+  },
+  "type": "Airpollution",
+  "value": 52,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d65dd01600288dd4de2"
+  },
+  "type": "Airpollution",
+  "value": 71,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d75dd01600288dd4de3"
+  },
+  "type": "Temperature",
+  "value": 28,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d7add01600288dd4de4"
+  },
+  "type": "Temperature",
+  "value": 19,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d92dd01600288dd4de5"
+  },
+  "type": "Humidity",
+  "value": 100,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74d97dd01600288dd4de6"
+  },
+  "type": "Humidity",
+  "value": 61,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74da9dd01600288dd4de7"
+  },
+  "type": "Humidity",
+  "value": 48,
+  "room": "Lounge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74db0dd01600288dd4de8"
+  },
+  "type": "Humidity",
+  "value": 70,
+  "room": "Lounge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74dbbdd01600288dd4de9"
+  },
+  "type": "Temperature",
+  "value": 24,
+  "room": "Lounge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74dbedd01600288dd4dea"
+  },
+  "type": "Temperature",
+  "value": 21,
+  "room": "Lounge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74dcddd01600288dd4deb"
+  },
+  "type": "Airpollution",
+  "value": 84,
+  "room": "Lounge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74dd1dd01600288dd4dec"
+  },
+  "type": "Airpollution",
+  "value": 64,
+  "room": "Lounge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74ddbdd01600288dd4ded"
+  },
+  "type": "Airpollution",
+  "value": 67,
+  "room": "Bedroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74ddedd01600288dd4dee"
+  },
+  "type": "Airpollution",
+  "value": 72,
+  "room": "Bedroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74de4dd01600288dd4def"
+  },
+  "type": "Temperature",
+  "value": 23,
+  "room": "Bedroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74de7dd01600288dd4df0"
+  },
+  "type": "Temperature",
+  "value": 18,
+  "room": "Bedroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74df1dd01600288dd4df1"
+  },
+  "type": "Humidity",
+  "value": 48,
+  "room": "Bedroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74df5dd01600288dd4df2"
+  },
+  "type": "Humidity",
+  "value": 75,
+  "room": "Bedroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74e2bdd01600288dd4df3"
+  },
+  "type": "Airpollution",
+  "value": 78,
+  "room": "Entrance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74e3cdd01600288dd4df4"
+  },
+  "type": "Airpollution",
+  "value": 71,
+  "room": "Entrance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74e45dd01600288dd4df5"
+  },
+  "type": "Temperature",
+  "value": 17,
+  "room": "Entrance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74e4add01600288dd4df6"
+  },
+  "type": "Temperature",
+  "value": 22,
+  "room": "Entrance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd74e52dd01600288dd4df7"
+  },
+  "type": "Humidity",
+  "value": 96,
+  "room": "Entrance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd79bb104e1ec3e20019567"
+  },
+  "type": "Temperature",
+  "value": 22,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd7b7ffac1f9e4c984ad34d"
+  },
+  "type": "Humidity",
+  "value": 88,
+  "room": "Bathroom",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd7b83aac1f9e4c984ad34e"
+  },
+  "type": "Temperature",
+  "value": 23,
+  "room": "Garage",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd7b9f2ac1f9e4c984ad34f"
+  },
+  "type": "Temperature",
+  "value": 18,
+  "room": "Garage",
+  "__v": 0
+}]
